@@ -30,6 +30,17 @@ a {
   transition: all 0.2s;
 }
 
+text-image{
+    position:absolute;
+    top:250px;
+    left:140px;
+    width:500px;
+    height:50px;
+    background-color:black;
+    z-index:0;
+    opacity:0.5;
+}
+
 a:hover {
   color: #f05f40;
 }
